@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com Desenvolvimento Web
 - 🌱 Estou estudando React.js
-- 📫 How to reach me: marckbogado@gmail.com | 51986395244
+- 📫 Como me encontrar: marckbogado@gmail.com | 51986395244
 - 😄 Pronouns: ele/dele
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marckbogado&theme=gruvbox&show_icons=true)](https://github.com/marckbogado/github-readme-stats)
